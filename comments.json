@@ -1,0 +1,10 @@
+[
+    {"author": "Bob Dupond", "text": "This is one comment test"},
+    {"author": "Pete Hunt", "text": "This is one comment"},
+    {"author": "Jordan Walke", "text": "This is *another* comment"},
+    {"author": "Jordan Walke 2", "text": "This is *another* comment"},
+    {"author": "John Doe", "text": "Administrator"},
+    {"author": "Gael Cadoret", "text": "This is a developer"},
+    {"author": "Cyril Cadoret", "text": "This is a also a developer"},
+    {"author": "Brigitte Cadoret", "text": "Directrice de la communication"}
+]
